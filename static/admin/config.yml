@@ -22,6 +22,7 @@ collections:
       - { label: "Question", name: "title", widget: "string" }
       - { label: "Subtitle", name: "subtitle", widget: "string" }
       - { label: "Answer", name: "body", widget: "markdown" }
+      - { label: "Date", name: "date", widget: "datetime" }
       - {
           label: "Image",
           name: "featuredimage",
